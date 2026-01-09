@@ -24,7 +24,9 @@ Especialista em automação de testes com mais de 5 anos de experiência. Transf
 - **Selenium WebDriver** (Java)
 - **Appium** (Mobile Automation)
 - **Cucumber** (BDD)
-- **Robot Framework**
+- **Karate**
+- **K6**
+- **JMeter**
 
 ## ⚙️ Backend & API Testing
 - **REST API Testing** (Postman, frameworks customizados em Java & JavaScript)
