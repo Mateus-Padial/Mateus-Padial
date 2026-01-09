@@ -6,14 +6,15 @@
 <p>
 Especialista em automação de testes com mais de 5 anos de experiência. Transformo qualidade em estratégia através de testes inteligentes e inovadores.
   Atuo na área de Tecnologia e Qualidade de Software, com foco em automação de testes, engenharia de qualidade e confiabilidade de sistemas. Tenho experiência em ambientes corporativos de alta complexidade, especialmente no setor financeiro, trabalhando diretamente com times de desenvolvimento, produto e negócio para garantir entregas estáveis, seguras e de alta qualidade.
+  <br/><br/>
 </p>
 
 <a href="https://mateusfolio-tjgvrqkf.manus.space" target="_blank">
 🔗 Portfólio
 </a>
-##
 
 
+<br/><br/>
 Principais Habilidades
 
 •
