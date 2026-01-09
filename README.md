@@ -11,29 +11,24 @@ com foco em qualidade, confiabilidade e automação de ponta a ponta.
 <a href="https://mateusfolio-tjgvrqkf.manus.space" target="_blank">
 🔗 Portfólio
 </a>
+##
 
-<br/><br/>
 
-<!-- ================== STATS ================== -->
-<img height="170"
-     src="https://github-readme-stats.demolab.com/api?username=Mateus-Padial&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+Principais Habilidades
 
-<img height="170"
-     src="https://github-readme-stats.demolab.com/api/top-langs/?username=Mateus-Padial&layout=donut&theme=dark&hide_border=true"/>
+•
+Linguagens: Java, JavaScript, C#
 
-<br/><br/>
+•
+Automação de Testes: Cypress, Selenium, Appium, Robot Framework
 
-<!-- ================== STREAK ================== -->
-<img
-     src="https://streak-stats.demolab.com?user=Mateus-Padial&theme=dark&hide_border=true"/>
+•
+Ferramentas: Postman, Jira, Jenkins, Azure DevOps
 
-<br/><br/>
+•
+Outros: Git, Docker, BDD, CI/CD
 
-<!-- ================== ACTIVITY GRAPH ================== -->
-<img
-     src="https://github-readme-activity-graph.vercel.app/graph?username=Mateus-Padial&theme=github-dark&hide_border=true"/>
 
-<br/><br/>
 
 <!-- ================== BADGES ================== -->
 <h3>Tech Stack</h3>
