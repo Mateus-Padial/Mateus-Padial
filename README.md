@@ -15,22 +15,41 @@ Especialista em automação de testes com mais de 5 anos de experiência. Transf
 
 
 <br/><br/>
-Principais Habilidades
+<div align="left">
 
-•
-Linguagens: Java, JavaScript, C#
+<h1>Principais Habilidades</h1>
 
-•
-Automação de Testes: Cypress, Selenium, Appium, Robot Framework
+## 🧪 Test Automation
+- **Cypress** (JavaScript)
+- **Selenium WebDriver** (Java)
+- **Appium** (Mobile Automation)
+- **Cucumber** (BDD)
+- **Robot Framework**
 
-•
-Ferramentas: Postman, Jira, Jenkins, Azure DevOps
+## ⚙️ Backend & API Testing
+- **REST API Testing** (Postman, frameworks customizados em Java & JavaScript)
+- **Testes de integração, contratos e fluxos críticos**
 
-•
-Outros: Git, Docker, BDD, CI/CD
+## 🚀 DevOps & CI/CD
+- **Jenkins**
+- **Azure DevOps**
+- **Pipelines de testes automatizados** (UI, API e Mobile)
+- **Execução paralela, relatórios e quality gates**
+
+## 🧠 Arquitetura de Testes
+- **BDD** (Gherkin + Cucumber)
+- **Page Object Model (POM)**
+- **Data-Driven Testing**
+- **Testes multi-ambiente** (dev, hml, prod)
+
+## 🛠️ Engineering Tools
+- **Git**
+- **Docker**
+- **Jira**
+- **Relatórios automatizados** (Cucumber, Allure, HTML Reports)
 
 
-
+</div>
 <!-- ================== BADGES ================== -->
 <h3>Tech Stack</h3>
 
